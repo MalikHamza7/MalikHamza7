@@ -1,5 +1,6 @@
 # ⚡ Hello, I'm Muhammad Hamza Iqbal! 👋
 
+<img width="925" height="277" alt="dd" src="https://github.com/user-attachments/assets/20761c42-088b-468d-a478-065b1a227405" />
 
 
 ## 👨‍💻 About Me
@@ -8,7 +9,7 @@
 
 I am a specialized Cybersecurity Engineer focusing on offensive security operations. My work bridges the gap between **Red Teaming** (Network, Web, Android) and **AI-Driven Defense**.
 
-- 🔭 **Current Flagship:** [ForgeSentry](https://github.com/MalikHamza7/ForgeSentry) — An Autonomous AI Threat Intelligence System.
+- 🔭 **Current Flagship:** [WayLoot](https://github.com/MalikHamza7/wayloot) — A powerful automated reconnaissance tool for extracting sensitive data from the Wayback Machine.
 - 🛠️ **My Arsenal:** I have developed numerous **Penetration Testing Tools**, automation scripts, and exploit frameworks available right here on my GitHub.
 - 🩸 **Main Operations:** Red Teaming, Exploit Development, and Network Infiltration.
 - 🐍 **Dev Expertise:** Python Tooling, Shell/Bash Scripting, and Malware Analysis.
@@ -58,5 +59,5 @@ I am a specialized Cybersecurity Engineer focusing on offensive security operati
 ## 📫 Secure Comms
 
 - **LinkedIn:** [Muhammad Hamza Iqbal](https://www.linkedin.com/in/muhammad-hamza-iqbal-0b4413293/)
-- **Email:** [hamza.secure@example.com](mailto:hamza.secure@example.com)
+- **Email:** [hamza.secure@example.com](mailto:hamzaheroxg@gmail.com)
 <!-- - **Portfolio:** [Your Website Link] -->
