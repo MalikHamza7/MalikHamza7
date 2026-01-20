@@ -59,5 +59,5 @@ I am a specialized Cybersecurity Engineer focusing on offensive security operati
 ## 📫 Secure Comms
 
 - **LinkedIn:** [Muhammad Hamza Iqbal](https://www.linkedin.com/in/muhammad-hamza-iqbal-0b4413293/)
-- **Email:** [hamza.secure@example.com](mailto:hamzaheroxg@gmail.com)
+- **Email:** [hamza](mailto:hamzaheroxg@gmail.com)
 <!-- - **Portfolio:** [Your Website Link] -->
